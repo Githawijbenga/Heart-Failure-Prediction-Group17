@@ -1,0 +1,68 @@
+_wandb:
+    value:
+        cli_version: 0.30.0
+        e:
+            pqbnmcwzakkxhui935gj849ly9vxmwjk:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 10
+                    macModel: Mac16,13
+                    memoryGb: 24
+                    name: Apple M4
+                    pcpuCores: 4
+                    ramTotalBytes: "25769803776"
+                    swapTotalBytes: "17179869184"
+                codePath: /Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb
+                codePathLocal: Group17mam11_NLP.ipynb
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "451343740928"
+                email: samhaaker12@gmail.com
+                executable: /Users/samha/Desktop/medical_ai/part3/.venv/bin/python
+                git:
+                    commit: 67ce256c86b2443e24070fa6a7c07870185c3dd1
+                    remote: https://github.com/Githawijbenga/Heart-Failure-Prediction-Group17.git
+                host: Sams-MacBook-Air.local
+                memory:
+                    total: "25769803776"
+                os: macOS-26.6.2-arm64-arm-64bit-Mach-O
+                program: /Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb
+                python: CPython 3.13.7
+                root: /Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17
+                startedAt: "2026-10-04T15:09:24.986600Z"
+                writerId: pqbnmcwzakkxhui935gj849ly9vxmwjk
+        m: []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+                - 98
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+                - 98
+            "3":
+                - 2
+                - 3
+                - 13
+            "4": 3.13.7
+            "5": 0.30.0
+            "6": 5.18.0
+            "8":
+                - 1
+            "10":
+                - 20
+            "12": 0.30.0
+            "13": darwin-arm64

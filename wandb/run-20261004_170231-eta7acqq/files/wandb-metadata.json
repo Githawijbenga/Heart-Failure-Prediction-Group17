@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.7",
+  "startedAt":  "2026-10-04T15:02:31.251442Z",
+  "program":  "/Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb",
+  "codePath":  "/Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb",
+  "codePathLocal":  "Group17mam11_NLP.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Githawijbenga/Heart-Failure-Prediction-Group17.git",
+    "commit":  "67ce256c86b2443e24070fa6a7c07870185c3dd1"
+  },
+  "email":  "samhaaker12@gmail.com",
+  "root":  "/Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17",
+  "host":  "Sams-MacBook-Air.local",
+  "executable":  "/Users/samha/Desktop/medical_ai/part3/.venv/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "448112435200"
+    }
+  },
+  "memory":  {
+    "total":  "25769803776"
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  24,
+    "swapTotalBytes":  "13958643712",
+    "ramTotalBytes":  "25769803776",
+    "macModel":  "Mac16,13"
+  },
+  "writerId":  "ijwknjoqtp3r6lt6y6he5ymoercagjkj"
+}
