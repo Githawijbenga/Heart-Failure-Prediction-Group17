@@ -1,0 +1,25 @@
+2026-10-05 11:13:30,109 INFO    MainThread:28136 [wandb_init.py:setup_run_log_directory():739] Logging user logs to /Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/wandb/run-20261005_111330-vjtosm2c/logs/debug.log
+2026-10-05 11:13:30,109 INFO    MainThread:28136 [wandb_init.py:setup_run_log_directory():740] Logging internal logs to /Users/samha/Desktop/medical_ai/part3/Heart-Failure-Prediction-Group17/wandb/run-20261005_111330-vjtosm2c/logs/debug-internal.log
+2026-10-05 11:13:30,110 INFO    MainThread:28136 [wandb_init.py:monkeypatch_ipython():658] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x433733350>
+2026-10-05 11:13:30,112 INFO    MainThread:28136 [wandb_init.py:init():783] calling init triggers
+2026-10-05 11:13:30,112 INFO    MainThread:28136 [wandb_init.py:init():788] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-10-05 11:13:30,112 INFO    MainThread:28136 [wandb_init.py:init():831] starting backend
+2026-10-05 11:13:30,113 INFO    MainThread:28136 [wandb_init.py:init():846] sending inform_init request
+2026-10-05 11:13:30,128 INFO    MainThread:28136 [wandb_init.py:init():851] backend started and connected
+2026-10-05 11:13:30,468 INFO    MainThread:28136 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2026-10-05 11:13:30,966 INFO    MainThread:28136 [wandb_init.py:init():921] updated telemetry
+2026-10-05 11:13:31,060 INFO    MainThread:28136 [wandb_init.py:init():944] communicating run to backend with 90.0 second timeout
+2026-10-05 11:13:32,223 INFO    MainThread:28136 [wandb_init.py:init():981] starting run threads in backend
+2026-10-05 11:13:32,438 INFO    MainThread:28136 [wandb_run.py:_console_start():2531] atexit reg
+2026-10-05 11:13:32,438 INFO    MainThread:28136 [wandb_run.py:_redirect():2381] redirect: wrap_raw
+2026-10-05 11:13:32,438 INFO    MainThread:28136 [wandb_run.py:_redirect():2450] Wrapping output streams.
+2026-10-05 11:13:32,438 INFO    MainThread:28136 [wandb_run.py:_redirect():2473] Redirects installed.
+2026-10-05 11:13:32,439 INFO    MainThread:28136 [wandb_init.py:init():1019] run started, returning control to user process
+2026-10-05 11:44:19,317 INFO    MainThread:28136 [wandb_run.py:_finish():2303] finishing run samhaaker12-university-of-amsterdam/mam11-inference/vjtosm2c
+2026-10-05 11:44:19,327 INFO    MainThread:28136 [jupyter.py:save_ipynb():368] not saving jupyter notebook
+2026-10-05 11:44:19,328 INFO    MainThread:28136 [wandb_init.py:_jupyter_teardown():637] cleaning up jupyter logic
+2026-10-05 11:44:19,330 INFO    MainThread:28136 [wandb_run.py:_atexit_cleanup():2498] got exitcode: 0
+2026-10-05 11:44:19,333 INFO    MainThread:28136 [wandb_run.py:_restore():2480] restore
+2026-10-05 11:44:19,333 INFO    MainThread:28136 [wandb_run.py:_restore():2486] restore done
+2026-10-05 11:44:22,203 INFO    MainThread:28136 [wandb_run.py:_footer_sync_info():3901] logging synced files
