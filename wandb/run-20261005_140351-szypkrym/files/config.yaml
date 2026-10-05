@@ -1,0 +1,70 @@
+_wandb:
+    value:
+        cli_version: 0.30.0
+        e:
+            sbp74sikc9al7qeu3r1ikd2o9djxv0dn:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 20
+                    macModel: Mac16,8
+                    memoryGb: 24
+                    name: Apple M4 Pro
+                    pcpuCores: 10
+                    ramTotalBytes: "25769803776"
+                    swapTotalBytes: "17179869184"
+                codePath: /Users/githawijbenga/Desktop/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb
+                codePathLocal: Group17mam11_NLP.ipynb
+                cpu_count: 14
+                cpu_count_logical: 14
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "370431574016"
+                email: g.m.wijbenga@student.vu.nl
+                executable: /Users/githawijbenga/opt/anaconda3/envs/medicalai_mps/bin/python
+                git:
+                    commit: 87790e8edf0c9407631755820f52e70747e7804a
+                    remote: https://github.com/Githawijbenga/Heart-Failure-Prediction-Group17.git
+                host: MacBook-Pro-5.local
+                memory:
+                    total: "25769803776"
+                os: macOS-15.7.9-arm64-arm-64bit
+                program: /Users/githawijbenga/Desktop/Heart-Failure-Prediction-Group17/Group17mam11_NLP.ipynb
+                python: CPython 3.11.13
+                root: /Users/githawijbenga/Desktop/Heart-Failure-Prediction-Group17
+                startedAt: "2026-10-05T12:03:51.530528Z"
+                writerId: sbp74sikc9al7qeu3r1ikd2o9djxv0dn
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 53
+                - 71
+                - 98
+            "2":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 53
+                - 71
+                - 98
+            "3":
+                - 2
+                - 3
+                - 13
+            "4": 3.11.13
+            "5": 0.30.0
+            "6": 5.18.0
+            "8":
+                - 1
+            "10":
+                - 20
+            "12": 0.30.0
+            "13": darwin-arm64
